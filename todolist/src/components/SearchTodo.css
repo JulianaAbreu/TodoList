@@ -1,0 +1,13 @@
+.form-search{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.btn-search{
+    padding: 5px;
+}
+.field-search{
+    width: 250px;
+    padding: 5px;
+}
